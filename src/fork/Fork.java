@@ -16,7 +16,7 @@ public class Fork {
      */
     public static void main(String[] args) {
     //ESTAMOS HACIENDO UN FORK
-        System.out.println("ka ki ku ke ko");
+        System.out.println("ka ki ku ke kooo");
     //HOLA
     /*    
     */
